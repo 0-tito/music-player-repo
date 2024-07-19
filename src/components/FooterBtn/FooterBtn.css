@@ -1,0 +1,6 @@
+.footer-btn > button{
+    width: 70px;
+    height: 60px;
+    border-radius:15px;
+    background-color: rgb(101, 196, 196);
+}
